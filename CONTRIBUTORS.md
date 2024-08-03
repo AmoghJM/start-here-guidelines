@@ -11,6 +11,7 @@
 - [@Michael-Kornilich](https://github.com/Michael-Kornilich)
 - [@TamunaPak](https://github.com/TamunaPak)
 - [@Zandersoph](https://github.com/Zandersoph)
+- [@AmoghJM](https://github.com/AmoghJM)
 - [@Akindex5427](https://github.com/Akindex5427/)
 -[@Muki-Dev](https://github.com/Muki-Dev)
 - [@lonewolf159951](https://github.com/lonewolf159951)
